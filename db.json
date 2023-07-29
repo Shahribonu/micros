@@ -1,0 +1,194 @@
+{
+  "worker": [
+    {
+      "id": "1",
+      "name": "Shahribonu",
+      "surname": "Otaqulova",
+      "date": "01.07.2001",
+      "passport": "AB7131721",
+      "gender": "female",
+      "active": "true"
+    },
+    {
+      "id": "2",
+      "name": "John",
+      "surname": "Doe",
+      "date": "15.03.1990",
+      "passport": "XY9876543",
+      "gender": "male",
+      "active": "true"
+    },
+    {
+      "id": "3",
+      "name": "Alice",
+      "surname": "Johnson",
+      "date": "28.11.1985",
+      "passport": "AB1234567",
+      "gender": "female",
+      "active": "true"
+    },
+    {
+      "id": "4",
+      "name": "Michael",
+      "surname": "Smith",
+      "date": "05.09.2002",
+      "passport": "CD7890123",
+      "gender": "male",
+      "active": "true"
+    },
+    {
+      "id": "5",
+      "name": "Emma",
+      "surname": "Brown",
+      "date": "12.06.1998",
+      "passport": "EF3456789",
+      "gender": "female",
+      "active": "true"
+    },
+    {
+      "id": "6",
+      "name": "Shahribonu",
+      "surname": "Otaqulova",
+      "date": "01.07.2001",
+      "passport": "AB7131721",
+      "gender": "female",
+      "active": "true"
+    },
+    {
+      "id": "7",
+      "name": "John",
+      "surname": "Doe",
+      "date": "15.03.1990",
+      "passport": "XY9876543",
+      "gender": "male",
+      "active": "true"
+    },
+    {
+      "id": "8",
+      "name": "Alice",
+      "surname": "Johnson",
+      "date": "28.11.1985",
+      "passport": "AB1234567",
+      "gender": "female",
+      "active": "true"
+    },
+    {
+      "id": "9",
+      "name": "Michael",
+      "surname": "Smith",
+      "date": "05.09.2002",
+      "passport": "CD7890123",
+      "gender": "male",
+      "active": "true"
+    },
+    {
+      "id": "10",
+      "name": "Emma",
+      "surname": "Brown",
+      "date": "12.06.1998",
+      "passport": "EF3456789",
+      "gender": "female",
+      "active": "true"
+    },
+    {
+      "id": "fTWjD00",
+      "name": "Shoh",
+      "surname": "Shoh",
+      "date": "2023-07-07",
+      "passport": "Ab12121",
+      "gender": "Male",
+      "active": false
+    },
+    {
+      "id": "1991pTM",
+      "name": "Oybek",
+      "surname": "Oybek",
+      "date": "2023-07-08",
+      "passport": "Abhuxshs",
+      "gender": "Female",
+      "active": true
+    }
+  ],
+  "documents": [
+    {
+      "name": "Shahribonu",
+      "type": "attorney",
+      "number_document": "123",
+      "date_document": "12.10.2020",
+      "type_invoice": "standard",
+      "name_trusted": "Someone"
+    },
+    {
+      "name": "Michael",
+      "type": "invoice",
+      "number_document": "456",
+      "date_document": "25.07.2023",
+      "type_invoice": "optional",
+      "name_trusted": "John Doe"
+    },
+    {
+      "name": "Emma",
+      "type": "invoice",
+      "number_document": "789",
+      "date_document": "05.03.2019",
+      "type_invoice": "standard",
+      "name_trusted": "Jane Smith"
+    },
+    {
+      "name": "Shahrbonu",
+      "type": "invoice",
+      "number_document": "012",
+      "date_document": "08.09.2022",
+      "type_invoice": "optional",
+      "name_trusted": "Michael Johnson"
+    },
+    {
+      "name": "John",
+      "type": "invoice",
+      "number_document": "345",
+      "date_document": "15.06.2021",
+      "type_invoice": "standard",
+      "name_trusted": "Emily Brown"
+    },
+    {
+      "name": "Alice",
+      "type": "attorney",
+      "number_document": "678",
+      "date_document": "03.12.2018",
+      "type_invoice": "standard",
+      "name_trusted": "Alex Johnson"
+    },
+    {
+      "name": "John",
+      "type": "invoice",
+      "number_document": "910",
+      "date_document": "20.04.2017",
+      "type_invoice": "standard",
+      "name_trusted": "Sophia Garcia"
+    },
+    {
+      "name": "Alice",
+      "type": "attorney",
+      "number_document": "111",
+      "date_document": "30.01.2024",
+      "type_invoice": "optional",
+      "name_trusted": "Robert Davis"
+    },
+    {
+      "name": "John",
+      "type": "attorney",
+      "number_document": "222",
+      "date_document": "10.08.2023",
+      "type_invoice": "standard",
+      "name_trusted": "Emma Wilson"
+    },
+    {
+      "name": "Shahrbonu",
+      "type": "invoice",
+      "number_document": "333",
+      "date_document": "18.05.2025",
+      "type_invoice": "standard",
+      "name_trusted": "Daniel Lee"
+    }
+  ]
+}
