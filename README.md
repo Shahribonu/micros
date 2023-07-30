@@ -16,6 +16,12 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 npm install
 ```
 
+### Install json-derver and run it
+```sh
+npm i json-server
+json-server --watch db.json
+````
+
 ### Compile and Hot-Reload for Development
 
 ```sh
